@@ -2,4 +2,5 @@
 
 source ENV['GEM_SOURCE'] || 'https://rubygems.org'
 
-gem 'ed25519'
+# gem 'ed25519' # works
+gem 'voxpupuli-acceptance'
